@@ -5,8 +5,11 @@ Uma aplicação Java simples para gerenciar frutas, usando uma interface gráfic
 
 Funcionalidades
 Adicionar Fruta: Adiciona uma nova fruta à lista.
+
 Modificar Fruta: Modifica o nome de uma fruta existente.
+
 Remover Fruta: Remove uma fruta da lista.
+
 Listar Frutas: Exibe todas as frutas adicionadas.
 
 📋 Pré-requisitos Visual Studio + extensões do Java
